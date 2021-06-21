@@ -9,9 +9,13 @@
     background-image: url("../img/pattern.png");
 }
 
+.posizione_logo {
+    width: 1100px;
+    margin: auto;
+}
+
 #logo_header {
     height: 60px;
-    margin-left: 10px;
     margin-top: 100px;
 }
 
@@ -19,6 +23,7 @@ h1 {
     font-size: 42px;
     margin-bottom: 5px;
     margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .descrizione_titolo {
@@ -42,6 +47,7 @@ h1 {
 
 .lista {
     padding-left: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .evidenziatore {
@@ -60,6 +66,7 @@ table {
     table-layout: fixed;
     border-spacing: 0;
     text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .colonna{
@@ -91,4 +98,8 @@ h3 {
 
 .foto2 {
     background-image: url("../img/graph.jpg");
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
