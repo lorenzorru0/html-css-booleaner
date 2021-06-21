@@ -43,3 +43,24 @@ h1 {
 .lista {
     padding-left: 15px;
 }
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+.testo_bianco {
+    color: white;
+}
+
+.intestazione_tabella {
+    background-color: #20A9E5;
+}
+
+table {
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.sfondo_celeste {
+    background-color: #B1E5F2;
+}
