@@ -1,3 +1,7 @@
+.contenitore {
+    width: 1100px;
+    margin: auto;
+}
 
 .sfondo_header {
     background-color: #4EA0FF;
@@ -12,13 +16,14 @@
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 42px;
     margin-bottom: 5px;
+    margin-top: 20px;
 }
 
 .descrizione_titolo {
     color: gray;
-    font-size: 25px;
+    font-size: 20px;
     margin-top: 0;
 }
 
@@ -27,5 +32,10 @@ h1 {
 }
 
 #data {
-    font-size: 18px;
+    font-size: 15px;
+}
+
+.descrizione_foto {
+    font-size: 12px;
+    margin-top: 0;
 }
