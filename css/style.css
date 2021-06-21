@@ -59,8 +59,36 @@ h1 {
 table {
     table-layout: fixed;
     border-spacing: 0;
+    text-align: left;
+}
+
+.colonna{
+    width: 50%;
 }
 
 .sfondo_celeste {
     background-color: #B1E5F2;
+}
+
+h3 {
+    color: gray;
+    margin-top: 30px;
+}
+
+.footer {
+    background-repeat: no-repeat;
+    height: 208px;
+    color: white;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+.foto1 {
+    background-image: url("../img/monitor.jpg");
+}
+
+.foto2 {
+    background-image: url("../img/graph.jpg");
 }
